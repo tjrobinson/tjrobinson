@@ -1,1 +1,1 @@
-<a rel="me" href="https://hachyderm.io/@tjrobinson">Mastodon</a>
+Follow me on <a rel="me" href="https://hachyderm.io/@tjrobinson">Mastodon</a>
